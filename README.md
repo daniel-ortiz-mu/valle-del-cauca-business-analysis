@@ -6,6 +6,14 @@ Data analysis project exploring business structure in Valle del Cauca, Colombia 
 
 This project analyzes the business structure of companies located in Valle del Cauca, Colombia. The objective is to identify key patterns in company size, economic activity, and geographic distribution to better understand the regional business ecosystem.
 
+
+## 🔥 Key Insights
+
+- Over 95% of companies are microenterprises
+- Strong concentration in retail and food services
+- High geographic concentration in Tuluá
+- Data limitations prevented time analysis
+
 ---
 
 ## 🎯 Objectives

@@ -1,6 +1,11 @@
 # valle-del-cauca-business-analysis
 Data analysis project exploring business structure in Valle del Cauca, Colombia using Python, SQL, and data visualization.
 # 📊 Business Analysis of Companies in Valle del Cauca, Colombia
+## 📊 Visualization
+<img width="641" height="647" alt="image" src="https://github.com/user-attachments/assets/17e3363d-4483-473a-9bda-a57dc67df227" />
+📊 *Distribution of companies by economic activity in Valle del Cauca*
+
+
 
 ## 🧠 Project Overview
 
